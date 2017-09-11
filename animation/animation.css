@@ -1,0 +1,139 @@
+						* {
+							box-sizing: border-box;
+							font-family: 'Merriweather', serif;
+							padding: 5;
+							margin: 5;
+						}
+						body {
+							background-image: url(orangeswirls.jpg);
+							background: #2BOCB2;
+							font-family: arial, Helvetica, sans-serif;
+						}
+						.container-fluid {
+							width: 100%;
+							margin: 10px 0;
+							min-height: 40px;
+							background-image: url(orangeswirls.jpg);
+							box-shadow: 3px 3px 2px #2B0CB2;
+						}
+						.container {
+							max-width: 1060px;
+							min-height: 50px;
+							background-image: url(orangeswirls.jpg);
+							border: 2px solid #2B0CB2;
+							box-shadow: 3px 3px 2px #2B0CB2;
+							font: #2d2f38;
+							border-radius: 10px;
+							margin: 15px auto;
+						}
+						h1,
+						h2,
+						h3,
+						h4,
+						h5 {
+							color: #2B0CB2;
+							text-align: center;
+							padding: 5px;
+						}
+						#motion {
+							min-height: 500px;
+						}
+						#jack1 {
+							width: 150px;
+							position: relative;
+							left: 200px;
+							-webkit-animation-name: Jack1-move;
+							/* Chrome, Safari, Opera */
+							-webkit-animation-duration: 4s;
+							/* Chrome, Safari, Opera */
+							animation-name: Jack1-move;
+							animation-duration: 6s;
+						}
+						#jack2 {
+							width: 150px;
+							position: relative;
+							left: 300px;
+							-webkit-animation-name: Jack2-move;
+							/* Chrome, Safari, Opera */
+							-webkit-animation-duration: 6s;
+							/* Chrome, Safari, Opera */
+							animation-name: Jack2-move;
+							animation-duration: 8s;
+						}
+						#jack3 {
+							width: 125px;
+							position: relative;
+							left: 175px;
+							-webkit-animation-name: jack3-move;
+							/* Chrome, Safari, Opera */
+							-webkit-animation-duration: 10s;
+							/* Chrome, Safari, Opera */
+							animation-name: jack3-move;
+							animation-duration: 1s;
+						}
+						@keyframes Jack1-move {
+							0% {
+								left: 200px;
+								top: 0px;
+							}
+							25% {
+								left: 500px;
+								top: 0px;
+							}
+							50% {
+								left: 500px;
+								top: 200px;
+							}
+							75% {
+								left: 200px;
+								top: 200px;
+							}
+							100% {
+								left: 200px;
+								top: 0px;
+							}
+						}
+						@keyframes Jack2-move {
+							0% {
+								left: 400px;
+								top: 0px;
+							}
+							25% {
+								left: 700px;
+								top: 0px;
+							}
+							50% {
+								left: 400px;
+								top: 200px;
+							}
+							75% {
+								left: 400px;
+								top: 400px;
+							}
+							100% {
+								left: 400px;
+								top: 0px;
+							}
+						}
+						@keyframes jack3-move {
+							0% {
+								left: 200px;
+								top: 0px;
+							}
+							25% {
+								left: 500px;
+								top: 0px;
+							}
+							50% {
+								left: 500px;
+								top: -200px;
+							}
+							75% {
+								left: 200px;
+								top: -200px;
+							}
+							100% {
+								left: -200px;
+								top: 0px;
+							}
+						}
