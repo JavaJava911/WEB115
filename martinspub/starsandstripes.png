@@ -1,0 +1,1048 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head><link id="linkThickboxCSS" rel="stylesheet" type="text/css" href="css/jquery.thickbox.1.css" /><link rel="shortcut icon" href="http://www.icollector.com/s/1/graphics/favicon.ico" /><link rel="alternate" type="application/rss+xml" title="iCollector.com Online Auctions Upcoming Auctions Feed" href="http://www.icollector.com/feeds" /><script type="text/javascript">var relpath = "http://www.icollector.com/";</script><link rel="stylesheet" type="text/css" href="http://www.icollector.com/css/c.min.17091801.css" /><link rel="stylesheet" type="text/css" href="http://www.icollector.com/s/1/css/s.min.17091801.css" /><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script><script type="text/javascript" src="http://www.icollector.com/js/c.min.17091801.js"></script>
+	<!--[if lte IE 6]>
+	<style type="text/css">
+		.boxlink img { float: left; margin: -11px 0px -13px -10px; }
+		.sidefilterbar .searchsection .textbox { width: 98%; }
+		.itemslisting ul.links li img, .auctionslisting ul.links li img { margin-right: -10px; margin-left: -5px; }
+	</style>
+	<![endif]-->
+	
+	<meta id="cphHead_metaDescription" name="description" content="Vintage Patriotic Stars and Stripes Lunch Pail - Desert West Auction"></meta>
+	<meta id="cphHead_metaKeywords" name="keywords" content="Vintage Patriotic Stars and Stripes Lunch Pail, Desert West Auction, Mimbres, New Mexico, United States, auction, item, lot"></meta>
+
+	<link rel="stylesheet" type="text/css" href="css/jquery.jcarousel.css" />
+	<link rel="stylesheet" type="text/css" href="css/jquery.jcarousel.skin.css" />
+	<link rel="stylesheet" type="text/css" href="css/jquery.jqzoom.css" />
+	<link rel="stylesheet" type="text/css" href="css/pages/item.2.css" />
+    <link rel="stylesheet" type="text/css" href="css/lightbox.css" />
+
+	<script src="js/jquery-1.6.min.js" type="text/javascript"></script>
+
+	<script type="text/javascript" src="js/jquery.lightbox.js?show_linkback=false&amp;show_helper_text=false&amp;speed=200&amp;opacity=0.8"></script>
+	<script type="text/javascript" src="js/jquery.jcarousel.17091801.js"></script>
+    <script type='text/javascript' src='js/jquery.jqzoom-core.17091801.js'></script>  
+	<script type="text/javascript" src="js/pages/auction.17091801.js"></script>
+	<script type="text/javascript" src="//www.youtube.com/iframe_api"></script>
+    <script type="text/javascript" src="js/pages/item.17091801.js"></script>
+
+    <script src="js/jquery-ui-1.11.3.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="css\jquery-ui-1.11.3.min.css"/>
+
+    <link rel="canonical" href="http://www.icollector.com/Vintage-Patriotic-Stars-and-Stripes-Lunch-Pail_i10772469" />
+
+    <style type="text/css">
+        /*Jquery UI MyAgent CSS*/
+        .ui-dialog{
+            font-size: 12px;
+            text-align:left;
+        }
+        .ui-dialog input[type=text]{
+            width:420px;
+        }
+        .lblTitle{
+            margin-top:7px;
+            margin-bottom:2px;
+            display:block;
+        }
+        .lblInfo {
+	        font-weight: normal;
+            display:block;
+	    }
+        .lblError {
+            color:red;
+            font-weight: normal;
+            margin: 5px 0;
+            display: block;
+        }
+        
+        .buttons {
+            text-align: center;
+            margin-top:5px;
+        }
+        .buttons input{
+            margin:5px 25px;
+            width:80px;
+        }
+        #AuctionButlerTitle {
+            text-align:center;
+            border: 1px rgb(204, 204, 204) solid;
+            padding: 5px 5px 10px 5px;
+        }
+        #AuctionButlerTitle span{
+            font-size: 14px;
+        }
+        #AuctionButlerTitle img{
+            vertical-align:middle;
+        }
+        #manageAuctionButler{
+            text-decoration:none;
+            color:#09f;
+        }
+        #manageAuctionButler:hover{
+            color:#f90;
+        }
+        #CreateSavedSearch{
+            color:#fff;
+            background-color:rgb(0, 166, 81);
+			cursor:pointer;
+            padding: 0 55px;
+            text-decoration:none;
+            font-family:sans-serif;
+            font-weight:bold;
+            font-size:small;
+            display:inline-block;
+            height: 15px;
+            border: solid 1px #ccc;
+            border-left:none;
+            padding-bottom: 7px;
+            padding-top: 9px;
+            margin-left: 1px;
+        }
+		.imgQuestion{
+		    margin-top: -47px;
+			margin-left: 200px;
+			float: left;
+			cursor:help;
+		}
+    </style>
+
+	<script type="text/javascript">
+	    var yt_element, yt_video, yt_videoId, yt_autoload_id;
+
+	    var SiteConfig = new function () {
+	        this.registrantID = "";
+            this.siteID = "1";
+        }
+
+        //Initialize JQZoom
+	    function initJQZoom(){
+	        $("#jqzoom").jqzoom({zoomType:"reverse", zoomWidth:479, zoomHeight: 305, xOffset:7, yOffset: -2, title:false });
+	    }
+
+		// function called when hover over thumbnail
+		function hoverThumbnail(img_md_src, img_lg_src, i)
+		{
+			if (yt_element)
+			{
+				yt_video.pauseVideo();
+				yt_element.hide();
+			}
+
+			$("#item_media_main img").attr("src", img_md_src);
+			$("#item_media_main a").attr("href", img_lg_src).attr("data-i", i).show();
+
+			//Reinitialize zqzoom on new image
+			initJQZoom();
+		}
+		function hoverMediaThumbnail(url)
+		{
+			if (url)
+			{
+				$("#item_media_main a").hide();
+
+				if (yt_videoId != url)
+				{
+					yt_videoId = url;
+
+					if (yt_element && yt_video)
+					{
+						yt_video.loadVideoById(url); // auto-plays
+						yt_video.pauseVideo();
+					}
+					else
+					{
+						yt_element = $("#item_media_main .youtube");
+						yt_video = new YT.Player("youtube_player",
+							{
+								width:250, height:250, videoId:url,
+								playerVars: { modestbranding: true },
+								events: {
+									'onReady': function (event) {
+										yt_video.playVideo();
+									},
+									'onStateChange': function (state) {
+										if (state.data === 0) { // video ended
+											// restart (loop)
+											yt_video.seekTo(0);
+											yt_video.playVideo();
+										}
+									}
+								}
+							});
+					}
+				}
+
+				yt_element.show();
+			}
+		}
+		// auto load first video (if it exists)
+		function onYouTubeIframeAPIReady()
+		{
+			// make sure page loaded already
+			$(function (){
+				// use setTimeout 0 to queue function call after general initialization
+				setTimeout(function() { hoverMediaThumbnail(yt_autoload_id); }, 1000);
+			});
+		}
+		
+		// on tab click change tab and details appropriately
+		function changeDetailsTab(name)
+		{
+			$("#item_details_tabs li").removeClass("active");
+			$("#item_details_info > span").css("display", "none");
+
+			$("#item_details_tabs_" + name).addClass("active");
+			$("#item_details_info_" + name).css("display", "block");
+		}
+
+		// on document ready
+		$(function()
+		{
+			// show thumbnails section (before initializing carousel)
+			// do this instead of just having it visible from the get go
+			// because we want style to be applied first otherwise during
+			// page load/render layout looks all goofy, and jumps around
+			$("#item_media_thumbnails").css("display","block");
+
+			// initialize thumbnail carousel
+			$("#item_media_thumbnails").jcarousel(
+			{
+				scroll: 1,
+				visible: 5
+			});
+			
+			// initialize jqzoom (on main image)
+			// if image src contains 'noimage' (eg. .../noimage_md.jpg) then don't add zoom capability
+			var main_image = $("#item_media_main a img");
+			if(main_image.attr("src").indexOf("noimage") < 0)
+			{
+			    // a valid image exists so initialize jqzoom on the image
+			    initJQZoom();
+			}
+			else
+			{
+				// a valid image does NOT exist, remove the href for the link on the main image
+				$("#item_media_main a").removeAttr("href");
+			}
+
+			// click main image to get zoom via thumbnail lightbox event
+			$("#item_media_main a").click(function() {
+				var i = $(this).attr("data-i");
+				$("a.item_media_thumbnail_" + i).trigger("click");
+			});
+
+			// show itemsbar
+			$(".item_groupbar").show("slow", function(){ $(".item_groupbar .tag").show(); });
+			
+			// setup find lot number events
+			$("#txtFindLot").click(function(e){ this.select(); });
+			$("#txtFindLot").keypress(function(e)
+			{
+				var keyCode = (window.Event)? e.which : e.keyCode;
+				if(keyCode==13)
+				{
+					FindLot(this.value, null, 20242, 50);
+					return false;
+				}
+			});
+			$("#btnFindLot").click(function()
+			{
+				FindLot($("#txtFindLot").val(), null, 20242, 50);
+			});
+			
+			// setup search items via keywords events
+			$("#txtSearch").click(function(e){ this.select(); });
+			$("#txtSearch").keypress(function(e)
+			{
+				var keyCode = (window.Event)? e.which : e.keyCode;
+				if(keyCode==13)
+				{
+					SearchItems("http://www.icollector.com/Desert-West-Auction-June-25th-2011_as20242", "50", "null", $("#txtSearch").val(), $("#ddlSearchCategories").val(), "null", "null", $("#cphBody_ddlSortOrder").val());
+					return false;
+				}
+			});
+			$("#btnSearch").click(function()
+			{
+				SearchItems("http://www.icollector.com/Desert-West-Auction-June-25th-2011_as20242", "50", "null", $("#txtSearch").val(), $("#ddlSearchCategories").val(), "null", "null", $("#cphBody_ddlSortOrder").val());
+			});
+			
+			// setup sort ordering
+			$("#cphBody_ddlSortOrder").change(function()
+			{
+				SortItems("http://www.icollector.com/Desert-West-Auction-June-25th-2011_as20242", "50", "null", $("#txtSearch").val(), $("#ddlSearchCategories").val(), "null", "null", $("#cphBody_ddlSortOrder").val());
+			});
+
+		    //If user is logged in load 
+		    if("".length > 0){
+		        //Initialize the savedsearch dialog
+		        $("#Dialog").dialog({ autoOpen: false, resizable: false, width: 450, modal: true });
+		        $("#Dialog").dialog('option', 'title', 'Auction Butler');
+
+		        var SavedSearch = new function () {
+		            this.CategoryID = "1";
+		            this.SSID = null;
+		            this.MyAgentEnabled = 0;
+		        }
+
+		        var Filters = new function () {
+		            this.categoryID = SavedSearch.CategoryID;
+		            this.yearID = null;
+		            this.auctionSessionTypeID = null;   
+		            this.countryLocationID = null;
+		            this.auctioneerID = null;
+		        }
+
+		        var SearchConfig = new function () {
+		            this.keywords = removeStopWords(removeIllegalChars("Vintage Patriotic Stars and Stripes Lunch Pail"));
+		            this.exactKeywords = null;
+		            this.isCurrent = 1;
+		            this.exactKeywords = 0;
+		        }
+
+		        var savedSearchName = "";
+		        var btnMyAgentEnabled = "Added To List";
+		        var btnMyAgentDisabled = "Add To My List";
+
+		        $("#btnSubmit").click(function () {
+		            $("#Dialog").dialog('close');
+		            
+		            promptKeywords = removeStopWords(removeIllegalChars($("#txtKeywords").val()));
+		            if (promptKeywords.length > 0) {
+		                SearchConfig.keywords = promptKeywords;
+		                var savedSearchName = generateSavedSearchName("Collectibles", SearchConfig.keywords, SearchConfig.exactKeywords).substr(0,150);
+		                if(saveSearch(savedSearchName, SavedSearch.SSID, 1, SearchConfig, Filters, SiteConfig, true)){
+		                    $("#CreateSavedSearch").text(btnMyAgentEnabled);
+		                    loadSavedSearch();
+		                }
+                    }
+		        });
+
+		        $("#btnCancel").click( function () {
+		            $("#Dialog").dialog('close');
+		        });
+
+		        $("#txtKeywords").keypress(function(e) {
+		            if(e.which == 13) {
+		                $("#btnSubmit").click();
+		            }else{
+		                var regex = new RegExp("^[a-zA-Z0-9 :,]+$");
+		                var str = String.fromCharCode(!e.charCode ? e.which : e.charCode);
+		                if (regex.test(str))
+		                    return true;
+		                else{
+		                    e.preventDefault();
+		                    return false;
+		                }
+		            }
+		        });
+
+		        $("#CreateSavedSearch").click (function () {
+		            loadSavedSearch();
+
+		            //If myagent is disabled, check if it exists. If it does, enabled. else, create
+		            if (SavedSearch.SSID != null && SavedSearch.MyAgentEnabled == 1) {
+		                if(saveSearch(savedSearchName, SavedSearch.SSID, 0, SearchConfig, Filters, SiteConfig, true, false)){
+		                    $("#CreateSavedSearch").text(btnMyAgentDisabled);
+		                    SavedSearch.MyAgentEnabled == 0;
+		                }
+		            }
+		            else {
+		                if (!$("#Dialog").dialog('isOpen')) {
+		                    $("#lblCategory").text("Collectibles");
+		                    $("#txtKeywords").val(SearchConfig.keywords);
+
+		                    $("#Dialog").dialog('open');
+		                }
+		            }
+		        });	    
+
+		        function loadSavedSearch(){
+		            var arrSavedSearch = loadSavedSearchesItemPage("1", "");
+		            if (arrSavedSearch && arrSavedSearch.length) {
+		                $.each(arrSavedSearch, function(index, ssVal) {
+		                    //if the new generated savedsearch keywords and categoryid match an existing savedsearch then savedsearch is enabled.
+		                    if(ssVal.SearchKeywords == SearchConfig.keywords){
+		                        //Existing Saved Search was found. populate existing values
+		                        SavedSearch.SSID = ssVal.SSID;
+		                        SavedSearch.MyAgentEnabled = ssVal.MyAgentEnabled;
+		                        SearchConfig.keywords = ssVal.SearchKeywords;
+		                        Filters.yearID = ssVal.SearchYearID;
+		                        Filters.auctionSessionTypeID = ssVal.SearchAuctionSessionID;
+		                        Filters.countryLocationID = ssVal.SearchLocationID;
+		                        Filters.auctioneerID = ssVal.SearchAuctioneerID;
+		                        return false;//break loop
+		                    }
+		                });
+		            }
+		        }
+
+		        $("#CreateSavedSearch").removeAttr("href");
+		    }
+
+			$("#ItemNotificationHelpDialog").dialog({ autoOpen: false, resizable: false, width: 450, modal: true });
+			$("#ItemNotificationHelpDialog").dialog('option', 'title', 'Lot Closing Notification Information');
+
+			$("#btnClose").click( function () {
+				$("#ItemNotificationHelpDialog").dialog('close');
+			});
+
+			$(".imgQuestion").click(function(){
+				$("#ItemNotificationHelpDialog").dialog('open');
+			});
+
+			$("#linkItemSubSettings").attr("href", "account/profile.aspx?m=2&itn=1&returl=" + window.location.href);
+		});
+	</script>
+	<style type="text/css">
+		.auction_session_search input[type='text'] { margin-right:3px; }
+		.auction_session_search div { margin-bottom:5px; }
+		.auction_session_search div:last-child { margin-bottom:0px; }
+		.auction_session_search .boxlink { height:22px; padding:4px; font-size:11px; vertical-align:top; }
+		.auction_session_search #btnFindLot { width:150px; }
+		.auction_session_search #btnSearch { width:79px; }
+		.auction_session_search #txtFindLot { width:49px; height:18px; padding:0px 1px; }
+		.auction_session_search #txtSearch { width:120px; height:18px; padding:0px 1px; }
+		.auction_session_search #ddlSearchCategories { width:208px; }
+		.auction_session_search #cphBody_ddlSortOrder { width:208px; margin:5px 0px; }
+
+	    a#lightbox-caption-title {
+            display: block;
+            text-decoration: none !important;
+	    }
+		a#lightbox-caption-title:hover {
+			color: #09f !important;
+		}
+	    a#lightbox-caption-title:hover::after {
+            background-color: #09f;
+	    }
+		a#lightbox-caption-title::after {
+            display: block;
+			content: "OPEN FULL SIZE VERSION IN NEW WINDOW";
+            margin: .5em .25em 0;
+			padding: 0 .25em;
+			border-radius: .25em;
+			color: #fff;
+			background-color: #999;
+            font-size: 1.25em;
+            text-align: center;
+		}
+		#item_media_main a, #item_media_main img, .jqZoomPup, #item_media_thumbnails a
+		{ cursor: pointer; cursor: -webkit-zoom-in; cursor: -moz-zoom-in; cursor: zoom-in; }
+        
+        .otherdetailsbox {
+            margin-top: 15px;
+            color: #333;
+            background-color: #fff;
+            min-height: unset;
+            border: .25em solid #f90;
+            border-left-width: 2.5em;
+            padding: .75em 1em;
+            font-size: 1.1em;
+            line-height: 1.3;
+            font-weight: bold;
+        }
+        .otherdetailsbox::before {
+            content: '';
+            float: left;
+            background-image: url('graphics/icons/info-circle.png');
+            background-repeat: no-repeat;
+            background-position: 0 0;
+            width: 3em;
+            height: 3em;
+            margin-left: -3em;
+            margin-top: -.5em;
+            z-index: 100;
+        }
+	</style>
+	<!--[if lte IE 7]>
+	<style type="text/css">
+		.auction_session_search #btnFindLot { width:150px; }
+		.auction_session_search #btnSearch { width:79px; }
+	</style>
+	<![endif]-->
+	
+<script type='text/javascript'>
+	var _qevents = _qevents || [];
+	(function() {
+		var elem = document.createElement('script'); elem.type = 'text/javascript'; elem.async = true;
+		elem.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+		var scpt = document.getElementsByTagName('script')[0]; scpt.parentNode.insertBefore(elem, scpt);  
+	})();
+</script>
+<script>
+!function(f,b,e,v,n,t,s){{if(f.fbq)return;n=f.fbq=function(){{n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)}};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '338972392930592');
+fbq('track', 'PageView');
+fbq('track', 'ViewContent');
+</script>
+<script>(function(w,d,s,l,i){
+w[l]=w[l]||[];
+w[l].push({'gtm.blacklist':['customScripts']});
+w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QJJBS');</script>
+<script>dataLayer.push({ 'event': 'ViewItem' })
+</script>
+<meta property="og:site_name" content="iCollector.com Online Auctions"></meta><meta property="og:image" content="http://media.liveauctiongroup.net/i/10007/10772469_1m.jpg?v=8CDF99A16383490"></meta><title>
+	Vintage Patriotic Stars and Stripes Lunch Pail
+</title></head>
+<body>
+	<form method="post" action="./Vintage-Patriotic-Stars-and-Stripes-Lunch-Pail_i10772469?i=10772469" id="frmSM">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xHAekXwF8t8AEWj7ys/cCfh8+AEyb3PlLr4FboWNrw633jFiFQyAFQ2hOJ5SHA+G19DYvBU2dHTKk+7+g0HfsuEfhR4=" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+function htip_show(e, htipID, offset) { $(htipID).stop(true,true).css({left:e.pageX-offset,top:e.pageY+10}).animate({opacity:'show'}, 'slow'); }function htip_hide(htipID) { $(htipID).hide(); }//]]>
+</script>
+<noscript><img height='1' width='1' style='display:none' src='https://www.facebook.com/tr?id=338972392930592&amp;ev=PageView&amp;noscript=1'/></noscript><noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-5QJJBS' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6AB857A9" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="4O6wuWq5QEg4+H0gtHO87+tsmDudmUPRuGqfGFEq8sP73JuszOj0VbQVuaCIl0mhZi4VvaARoTJzjpvVDylrKcPy1cLgskQr8wosfm7gcxC7HDi0Shdkmzw0zXgeDF7z40wq48bgHciA3uqxkVZB8EfDx35ziHO+yPyQOOPiKeIXqII17fkO0J1VSr/x4jlyvGQPcYhFNFis2CqsW5dhLL/2agszwU7jq0lJa1tOs1MZ42HUeTV9dGt4r+tSms+yy4SNYBacepL9bN5d55qzQZotU7ExBVIr+bbLnqd6HfZG9jW5uOZQkYuOVmQ4CmrQlGQTpe0kh0kFLN/2ifw1kpkMKdo=" />
+</div>
+		<div id="master">
+			<div id="header">
+				<div id="header_content">
+					<div id="header_logo"><a href="http://www.icollector.com/" id="aLogo" title="Live Auctions - Collectible, Antique, Coin and Firearm - iCollector.com"><img src="http://www.icollector.com/s/1/graphics/logo.png" alt="Live Auctions - Collectible, Antique, Coin and Firearm - iCollector.com" /><span>Online Collectibles Auctions</span></a></div>
+					<div id="header_search">
+						<input id="txtHomeSearch" type="text" class="searchbox" placeholder="Search..." onfocus="clearTextBox(this);" onkeypress="if(event.keyCode == 13) { goSearch(this.value); return false; }"
+						/><a class="searchbutton" onclick="goSearch(document.getElementById('txtHomeSearch').value); return false;"><i class="fa fa-search"></i></a>
+					</div>
+					<div id="header_userinfo">
+						<a id="lnkRegister" class="register" href="https://icollector.liveauctiongroup.com/register.aspx?returnurl=http%3a%2f%2fwww.icollector.com%2fitem.aspx%3fi%3d10772469">create account</a><a id="lnkLogin" class="signin" href="https://icollector.liveauctiongroup.com/login.aspx?returnurl=http%3a%2f%2fwww.icollector.com%2fitem.aspx%3fi%3d10772469">sign in</a>
+						
+					</div>
+				</div>
+			</div>
+			<div id="mainmenu">
+				<div id="mainmenu_content">
+					<nav><ul id="mainmenu_navigation">
+						<li><a href="http://www.icollector.com/">home</a></li>
+						<li><a href="http://www.icollector.com/auctionlist.aspx">browse auctions</a></li>
+						<li><a href="http://www.icollector.com/search.aspx">search items</a></li>
+						<li><a href="https://icollector.liveauctiongroup.com/account/">your account</a></li>
+						<li><a href="http://www.icollector.com/help.aspx">help</a></li>
+						<li><a href="http://www.icollector.com/contact.aspx">contact</a></li>
+						<li><a href="http://auctionnews.icollector.com/" target="_blank">news</a></li>
+					</ul></nav>
+					<ul id="mainmenu_social">
+						<li><a href="http://www.facebook.com/icollector" target="_blank" title="Become a fan on Facebook"><img src="http://www.icollector.com/graphics/icon_social_facebook.png" alt="Facebook" /></a></li>
+						<li><a href="http://twitter.com/icollector" target="_blank" title="Follow on Twitter"><img src="http://www.icollector.com/graphics/icon_social_twitter.png" alt="Twitter" /></a></li>
+						<li><a href="https://plus.google.com/100320053500968719287" target="_blank" title="Follow on Google+"><img src="http://www.icollector.com/graphics/icon_social_gplus.png" alt="Google+" /></a></li>
+						<li><a href="http://www.icollector.com/feeds" target="_blank" title="Upcoming Auctions Feed"><img src="http://www.icollector.com/graphics/icon_social_feed.png" alt="Feed" /></a></li>
+						<li class="newsletter"><a onclick="openNewsletterPopup(); return false;" title="Subscribe to our Newsletter"><img src="http://www.icollector.com/graphics/button_newsletter.png" alt="Newsletter" /></a></li>
+					</ul>
+					<div style="clear:both"></div>
+				</div>
+			</div>
+
+			<div id="content">
+				<div id="content_content">
+					
+	<div id="p_item" itemscope itemtype="http://schema.org/Product">
+	<h2 class="breadcrumbs">
+		<b>ITEM</b>
+		<a id="cphBody_hlBreadcrumb_AuctioneerName" title="Desert West Auction" href="http://www.icollector.com/Desert-West-Auction_ae1601">Desert West Auction</a>&nbsp;&nbsp;/&nbsp;
+		<a id="cphBody_hlBreadcrumb_AuctionTitle" title="Desert West Auction June 25th, 2011" href="http://www.icollector.com/Desert-West-Auction-June-25th-2011_as20242">Desert West Auction June 25th, 2011</a>&nbsp;&nbsp;/&nbsp;
+		<a id="cphBody_hlBreadcrumb_ItemTitle" title="Vintage Patriotic Stars and Stripes Lunch Pail" itemprop="url" href="http://www.icollector.com/Vintage-Patriotic-Stars-and-Stripes-Lunch-Pail_i10772469">Vintage Patriotic Stars and Stripes Lunch Pail</a>
+	</h2>
+
+	
+	
+	<div id="cphBody_pnlMain">
+	
+		<div class="pageheading">
+			<i>1558</i>
+			<h1 itemprop="name">Vintage Patriotic Stars and Stripes Lunch Pail</h1>
+		</div>
+
+		<div class="pageheadingsub">
+			<span class="part"><b>Currency:</b><a id="cphBody_hlSubBar_AuctionCurrency" title="Search for items under currency: USD" href="http://www.google.com/finance?q=CURRENCY:USD" target="_blank">USD</a></span>
+			<span class="part"><b>Category:</b><a id="cphBody_hlSubBar_ItemCategory" title="Search for items under category: Collectibles" href="search.aspx?ca=1">Collectibles</a></span>
+			<span class="part"><b>Start Price:</b>5.00 USD</span>
+			<span class="part"><b>Estimated At:</b>25.00 - 500.00 USD</span>
+		</div>
+
+		<div class="cmain">
+			<div id="item_media_container">
+				<div id="item_media_main">
+					<a href="http://media.liveauctiongroup.net/i/10007/10772469_1.jpg?v=8CDF99A16383490" data-i="1" id="jqzoom"><img itemprop="image" src="http://media.liveauctiongroup.net/i/10007/10772469_1m.jpg?v=8CDF99A16383490" alt="Vintage Patriotic Stars and Stripes Lunch Pail" /></a>
+					<div class="youtube" style="display:none"><div id="youtube_player"></div></div>
+				</div>
+				<ul id="item_media_thumbnails" class="jcarousel-skin-simple" style="display:none;"><li><a class='item_media_thumbnail_1' href="http://media.liveauctiongroup.net/i/10007/10772469_1.jpg?v=8CDF99A16383490" onmouseover="hoverThumbnail('http://media.liveauctiongroup.net/i/10007/10772469_1m.jpg?v=8CDF99A16383490','http://media.liveauctiongroup.net/i/10007/10772469_1.jpg?v=8CDF99A16383490', 1);" rel="lightbox-thumbnails" title="1558 - Vintage Patriotic Stars and Stripes Lunch Pail"><img src="http://media.liveauctiongroup.net/i/10007/10772469_1s.jpg?v=8CDF99A16383490" alt="Image 1 : Vintage Patriotic Stars and Stripes Lunch Pail" /></a></li><li><a class='item_media_thumbnail_2' href="http://media.liveauctiongroup.net/i/10007/10772469_2.jpg?v=8CDF99A16383490" onmouseover="hoverThumbnail('http://media.liveauctiongroup.net/i/10007/10772469_2m.jpg?v=8CDF99A16383490','http://media.liveauctiongroup.net/i/10007/10772469_2.jpg?v=8CDF99A16383490', 2);" rel="lightbox-thumbnails" title="1558 - Vintage Patriotic Stars and Stripes Lunch Pail"><img src="http://media.liveauctiongroup.net/i/10007/10772469_2s.jpg?v=8CDF99A16383490" alt="Image 2 : Vintage Patriotic Stars and Stripes Lunch Pail" /></a></li><li><a class='item_media_thumbnail_3' href="http://media.liveauctiongroup.net/i/10007/10772469_3.jpg?v=8CDF99A16383490" onmouseover="hoverThumbnail('http://media.liveauctiongroup.net/i/10007/10772469_3m.jpg?v=8CDF99A16383490','http://media.liveauctiongroup.net/i/10007/10772469_3.jpg?v=8CDF99A16383490', 3);" rel="lightbox-thumbnails" title="1558 - Vintage Patriotic Stars and Stripes Lunch Pail"><img src="http://media.liveauctiongroup.net/i/10007/10772469_3s.jpg?v=8CDF99A16383490" alt="Image 3 : Vintage Patriotic Stars and Stripes Lunch Pail" /></a></li><li><a class='item_media_thumbnail_4' href="http://media.liveauctiongroup.net/i/10007/10772469_4.jpg?v=8CDF99A16383490" onmouseover="hoverThumbnail('http://media.liveauctiongroup.net/i/10007/10772469_4m.jpg?v=8CDF99A16383490','http://media.liveauctiongroup.net/i/10007/10772469_4.jpg?v=8CDF99A16383490', 4);" rel="lightbox-thumbnails" title="1558 - Vintage Patriotic Stars and Stripes Lunch Pail"><img src="http://media.liveauctiongroup.net/i/10007/10772469_4s.jpg?v=8CDF99A16383490" alt="Image 4 : Vintage Patriotic Stars and Stripes Lunch Pail" /></a></li></ul>
+			</div> 
+
+			
+
+<div id="item_bidding">
+	
+	
+	
+
+	
+	
+	
+		<div id="item_bidding_currentbid">
+			<span id="cphBody_cItemBidInfo_lblBidding_Reserve" class="reserve"></span>
+			<b class="leadin">SOLD</b><br />
+			
+			
+
+			<span class="currentbidinfo">
+				<span id="cphBody_cItemBidInfo_lblBidding_CurrentBid" class="amount">15.00</span><span id="cphBody_cItemBidInfo_lblBidding_CurrentBid_Currency" class="currency">USD</span><span id="cphBody_cItemBidInfo_lblBidding_CurrentBid_Quantity" class="quantity"></span><span id="cphBody_cItemBidInfo_lblBidding_CurrentBid_Username" class="username"><small>to</small> floor</span><span id="cphBody_cItemBidInfo_lblBidding_CurrentBid_FineText" class="fees">+ (2.70) buyer's premium. + applicable fees &amp; taxes.</span>
+			</span>
+		</div>
+	
+
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+		<div id="item_bidding_over_date">
+			This item
+			<span id="cphBody_cItemBidInfo_lblBidding_Over_SoldStatus" class="soldstatus">SOLD</span><span id="cphBody_cItemBidInfo_lblBidding_Over_Date_LeadIn"> at </span><span id="cphBody_cItemBidInfo_lblBidding_Over_Date" class="date">2011 Jun 26 @ 14:43</span><span id="cphBody_cItemBidInfo_lblBidding_Over_TimeZone" class="timezone">UTC-6 : CST/MDT</span>
+		</div>
+		<div id="item_bidding_over">
+			<div id="cphBody_cItemBidInfo_pnlBidding_Over_WhoWon">
+		
+				<b>Did you win this item?</b><br />
+				A full invoice should be emailed to the winner by the auctioneer within a day or two.
+			
+	</div>
+
+			<div>
+				<a href="http://www.icollector.com/account/items.aspx" title="Your Account">
+					<img src="http://www.icollector.com/graphics/icons/go.gif" class="small" alt="" />
+					<span class="gray">What item's have you won or lost?</span>
+					Visit your account to find out...
+				</a>
+				<br />
+				<a href="http://www.icollector.com/auctioneercontact.aspx?a=10007&amp;i=10772469&amp;TB_iframe=true&amp;height=420&amp;width=600&amp;modal=true" class="thickbox" title="Ask Question">
+					<img src="http://www.icollector.com/graphics/icons/go.gif" class="small" alt="" />
+					<span class="gray">Have any questions about this item?</span>
+					Ask the auctioneer a question...
+				</a>
+				
+				<br />
+				<a href="http://www.icollector.com/Desert-West-Auction_ae1601" title="Auctioneer Info">
+					<img src="http://www.icollector.com/graphics/icons/go.gif" class="small" alt="" />
+					<span class="gray">Want to phone or mail the auctioneer?</span>
+					View auctioneer's contact info...
+				</a>
+				
+			</div>
+
+			
+			<div>
+				<a href="http://www.icollector.com/auctionlist.aspx" title="Browse All Auctions">
+					<img src="http://www.icollector.com/graphics/icons/go.gif" class="small" alt="" />
+					Browse <span class="thin">All</span> Upcoming Auctions...
+				</a>
+				<br />
+				<a href="http://www.icollector.com/auctionlist.aspx?ae=1601" title="Browse Auctions">
+					<img src="http://www.icollector.com/graphics/icons/go.gif" class="small" alt="" />
+					Browse <span class="thin">Desert West Auction</span> Upcoming Auctions...
+				</a>
+				<br />
+				
+				<a href="http://www.icollector.com/auctionlist.aspx?ae=1601&amp;dv=2&amp;so=2" title="Browse Auctions">
+					<img src="http://www.icollector.com/graphics/icons/go.gif" class="small" alt="" />
+					Browse <span class="thin">Desert West Auction</span> Finished Auctions...
+				</a>
+			</div>
+			
+			
+			<div>
+				<a href="http://www.icollector.com/account/profile.aspx?m=2" title="Subscription Settings">
+					<img src="http://www.icollector.com/graphics/icons/go.gif" class="small" alt="" />
+					<span class="gray">Want to receive updates about upcoming auctions?</span>
+					Enable email updates...
+				</a>
+				
+			</div>
+		</div>
+	
+</div>
+<script type="text/javascript" src="http://www.icollector.com/js/controls/ItemBidInfo.4.js"></script>
+<script type="text/javascript">itembidinfo.Initialize(10772469, -196649557, 1, 10);</script>
+
+            
+			    <div class="infobox otherdetailsbox"><span id="cphBody_litOtherDetails" class="contentblock">Condition of items vary.  We welcome email and telephone inquiries as to condition prior to the auction.  Some items might have some staining, slight or pulled thread wear, rubbed places, etc. due to normal wear and tear. Any exceptional wear will be noted in the description of each item. </span></div>
+			
+
+            
+
+			<ul id="item_details_tabs" class="tabs">
+				<li id="item_details_tabs_description" class="active"><a onclick="changeDetailsTab('description');" title="Description">Item Description</a></li>
+				<li id="item_details_tabs_preview"><a onclick="changeDetailsTab('preview');" title="Location &amp; Preview">Location &amp; Preview</a></li>
+				<li id="item_details_tabs_taxes"><a onclick="changeDetailsTab('taxes');" title="Taxes &amp; Fees">BP, Taxes &amp; Fees</a></li>
+				<li id="item_details_tabs_shippay"><a onclick="changeDetailsTab('shippay');" title="Shipping &amp; Payment">Shipping &amp; Payment</a></li>
+				<li id="item_details_tabs_terms"><a onclick="changeDetailsTab('terms');" title="Terms">Terms</a></li>
+			</ul>
+			<div id="item_details_info">
+				<span id="item_details_info_description" itemprop="description"><span id="cphBody_cbItemDescription" class="contentblock">Vintage Stars and Stripes Tin Dome Shaoe Lunchbox, rusty and does not contain a thermos, measures approx. 11.5&#39;&#39; x 7.25&#39;&#39;.  Age unknown.  Buyers Pay Actual Shipping and Handling Charges(see terms and conditions for more information)<br /><br />Condition of items vary.  We welcome email and telephone inquiries as to condition prior to the auction.  Some items might have some staining, slight or pulled thread wear, rubbed places, etc. due to normal wear and tear. Any exceptional wear will be noted in the description of each item. </span></span>
+				<span id="item_details_info_preview" style="display:none;">
+					<b>Auction Location:</b><br />
+					3870 Hwy 35, Mimbres, New Mexico, 88049, United States
+					<br /><br />
+					<b id="cphBody_bItemPreviewInfo">Previewing Details:</b><br />
+					<span id="cphBody_cbItemPreviewInfo" class="contentblock">Friday May 27th from 10am-1pm.  Also two hours prior to sale time on both auction days.  Sale Time 10am MDT</span>
+				</span>
+				<span id="item_details_info_taxes" style="display:none;">
+					<span id="cphBody_cbItemTaxes" class="contentblock">New Mexico Sales Tax will be charged to all New Mexico Bidders, unless a Non Taxable Certificate is filed at our office.  <br /><br /></span>
+					<b>Taxes:</b><ul>
+							<li>NM (7%)</li>
+						</ul><br />
+					
+							<b>Buyer's Premiums:</b>
+							<table class="datainfo">
+								<thead><tr><td>From (Incl.)</td><td>To (Excl.)</td><td>Premium</td></tr></thead>
+								<tbody>
+						
+							<tr>
+								<td>0.00</td>
+								<td>Infinite</td>
+								<td>18%</td>
+							</tr>
+						
+								</tbody>
+							</table>
+						
+				</span>
+				<span id="item_details_info_shippay" style="display:none;">
+					<b>Shipping Details:</b><br />
+					<span id="cphBody_cbItemShippingInfo" class="contentblock">*** Shipping: Buyers pay actual shipping costs plus handling &amp; insurance.  We combine shipping for multiple purchases where possible. </span>
+					<br /><br />
+					<b>Payment Details:</b><br />
+					<span id="cphBody_cbItemPaymentInfo" class="contentblock">Payment<br />We honor American Express, Master Card, Visa, Discover, Money Orders, Cashiers Checks, and PayPal. <br />Please follow the instructions included in the Desert West &quot;End of Auction Invoice &amp; Payment&quot; email sent starting Tuesday morning after the auction is over. Multiple item wins will invoice on Tuesday and Wesnesday after the auction.<br />Personal checks will be honored with a fifteen day waiting period for our local bank to clear your check.<br /><br /></span>
+					<br /><br />
+					<b>Accepted Payment Methods:</b><ul>
+							<li>VISA</li>
+						
+							<li>Master Card</li>
+						
+							<li>Discover</li>
+						
+							<li>Money Order/Bank Draft</li>
+						
+							<li>Personal Cheque/Check</li>
+						
+							<li>PayPal</li>
+						</ul>
+				</span>
+				<span id="item_details_info_terms" style="display:none;"><span id="cphBody_cbItemTerms" class="contentblock">All merchandise is sold as is, where is to the highest bidder. Neither we, nor the consignor make any warranties or representations with respect to the correctness of description, genuineness, attribution, provenance, period, culture, age, source, origin, authenticity, or condition of any item sold. All statements, written and oral, are the opinion only of Desert West Auctioneers. Any questions about items should be asked prior to the auction.  <br />*** If an item is materially different than was described by the Seller, Buyer shall have 48 hours from the date the property is received to notify the Seller. After the 48 hour period all items are considered as is, without recourse. No buyers premium or shipping will be re-embursed on items returned for any reason.<br />*** By bidding in this auction you are entering a binding legal contract to pay for your items within 1 week of the close of the auction. Non payment will result in a non pay warning.  Items not paid for upon the non pay warning, will be relisted for resale within 10 days. You represent that you are over the age of 21 and can enter into legal contracts.<br />*** The highest bidder acknowledged by the auctioneer shall be the purchaser, regardless of the time the bids were placed. In the event of a tie between bidders, the auctioneer shall have the sole and final discretion either to determine the successful bidder or to re-offer and resell the article in dispute. If any dispute arises after sale, the Company&#39;s sale record shall be conclusive in all respects. <br />*** Specific Lot Questions: If you have any questions regarding an items, send an email or call with your questions prior to bidding.  All inquiries regarding lots for sale must be received 24 hours prior to the start of the auction. Please register to bid and logon  2 hour before the start time, 10am MDT. <br />*** Payment: We honor American Express, Master Card, Visa, Discover, Money Orders, Cashiers Checks, and PayPal. If paying by Paypal, Winning bidders must log on to the PayPal web site directly and request payment to be sent to desertwest@desertwestauction.com. or wait for the paypal invoice that will be sent after the initial invoicing.  Personal checks will be honored with a fifteen day waiting period for our local bank to clear your check. New Mexico Sales Tax will be charged on items delivered within New Mexico, unless an NTTC is on file at our office. <br />*** Buyers Premium: A buyers premium of 15% will be added to the final bid amount on all items purchased. Please note - Invoices will be sent for each auction date with combined shipping if applicable. Please allow 4 days for us to invoice for your winning items. <br />*** Shipping: Buyers pay actual shippings costs, plus handling and insurance.  We combine shipping for multiple purchases where possible. *** Return shipping of any items to us must be preauthorized and is at the buyers expense.<br /></span></span>
+			</div>
+		</div>
+		
+		<div class="cside">
+			<div id="item_sideinfo_auction" class="sidebox sidebox_bg_gray">
+				<span>This item is part of the auction: <a id="cphBody_hlSideAuctionTitle" title="View: Desert West Auction June 25th, 2011" href="http://www.icollector.com/Desert-West-Auction-June-25th-2011_as20242">Desert West Auction June 25th, 2011</a></span>
+			
+				<a id="cphBody_hlSideAuctionLink" title="View all items from auction: Desert West Auction June 25th, 2011" class="boxlink" onclick="GoToListing(&#39;1558&#39;, 20242);return false;" style="font-size:11pt;">Back To Catalog Listing</a>
+				<div class="stopper"></div>
+			</div>
+
+			<div class="sidebox sidebox_bg_gray">
+				<div class="stopper"></div>
+				<a class="boxlink" href="login.aspx?returnurl=http%3a%2f%2fwww.icollector.com%2fitem.aspx%3fi%3d10772469" title="Sign In to Bookmark Item"><img src="graphics/icons/bookmark_off.png" alt="" />Sign In to Bookmark Item</a>
+				
+
+				
+				
+				<div class="stopper"></div>
+			</div>
+            <div class="sidebox sidebox_bg_gray">
+                <fieldset id="AuctionButlerTitle">
+                    <legend>
+                        &nbsp;
+                        <img style="margin-top: -2px;" src="graphics\icons\butler-icon.png" alt="" width="16" height="16" />
+                        The Auction Butler<a href="account/auctionbutler.aspx" id="manageAuctionButler"> [Manage]&nbsp;</a>
+                    </legend>                        
+                    <a id="CreateSavedSearch" class="saveSearch" href="login.aspx?returnurl=http%3a%2f%2fwww.icollector.com%2fitem.aspx%3fi%3d10772469">Add To My List</a>
+                    <span id="auctionButler" style="display:inline"><input type="checkbox" id="toggleButler" data-size="medium" checked="checked" style="display:none;" /></span>
+                </fieldset>
+				<div class="stopper"></div>
+			</div>
+			<div class="sidebox sidebox_bg_gray sharewidget">
+				<div id="cphBody_shareWidget" style="text-align:left;">
+		<div style="float:left;padding-right:8px;"><div id="fb-root"></div><div class="fb-like" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div></div><div style="float:left;padding-right:8px;"><a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a></div><div style="float:left;padding-right:8px;"><g:plusone size="medium" count="false"></g:plusone></div><div class="addthis_toolbox addthis_default_style"><div class="addthis_sharing_toolbox"></div></div><div style="clear:both"></div>
+	</div>
+				<div class="stopper"></div>
+			</div>
+			
+			
+			
+			
+			<div id="cphBody_divFindLot" class="sidebox auction_session_search">
+				<input type="text" id="txtFindLot" /><input type="button" id="btnFindLot" value="Find Item by Lot Number" class="boxlink" />
+			</div>
+			<div class="sidebox auction_session_search">
+				<div>
+					<select name="ctl00$cphBody$ddlSortOrder" id="cphBody_ddlSortOrder">
+		<option value="1">Sort by Lot Number Ascending</option>
+		<option value="2">Sort by Lot Number Descending</option>
+		<option value="3">Sort by Start Price Ascending</option>
+		<option value="4">Sort by Start Price Descending</option>
+		<option value="5">Sort by Estimates Ascending</option>
+		<option value="6">Sort by Estimates Descending</option>
+		<option value="7">Sort by Bid Amount Ascending</option>
+		<option value="8">Sort by Bid Amount Descending</option>
+		<option value="9">Sort by Bookmarks Ascending</option>
+		<option value="10">Sort by Bookmarks Descending</option>
+		<option value="11">Sort by Hits Ascending</option>
+		<option value="12">Sort by Hits Descending</option>
+
+	</select>
+				</div>
+				<div><input type="text" id="txtSearch" maxlength="50" onfocus="clearTextBox(this,true);" /><input type="button" id="btnSearch" value="Search List" class="boxlink" /></div>
+			</div>
+			
+			
+			<div id="item_sideinfo_nextprev" class="sidebox sidebox_bg_gray">
+				<a id="cphBody_hlPrevItem" title="1557 :: Native American Sioux Pipe, Items in Display Box." class="item_prev" href="http://www.icollector.com/Native-American-Sioux-Pipe-Items-in-Display-Box_i10772468"><img id="cphBody_imgPrevItem" class="pic" src="http://media.liveauctiongroup.net/i/10007/10772468_1s.jpg?v=8CDF99A162C74C0" alt="Native American Sioux Pipe, Items in Display Box." />
+					<span><img src="graphics/icons/goprev.gif" alt="&lt;" class="arrow" />Prev Item</span>
+				</a>
+
+				<a id="cphBody_hlNextItem" title="1559 :: Oaxacan Mexican Pottery Duck." class="item_next" href="http://www.icollector.com/Oaxacan-Mexican-Pottery-Duck_i10772470"><img id="cphBody_imgNextItem" class="pic" src="http://media.liveauctiongroup.net/i/10007/10772470_1s.jpg?v=8CDF99A163D3DA0" alt="Oaxacan Mexican Pottery Duck." />
+					<span><img src="graphics/icons/gonext.gif" alt="&gt;" class="arrow" />Next Item</span>
+				</a>
+			</div>
+
+			<div id="cphBody_ucAuctioneerSidePanel_divAskQuestion" class="sidebox">
+	<div class="stopper"></div>
+	<a href="auctioneercontact.aspx?a=10007&amp;i=10772469&amp;TB_iframe=true&amp;height=420&amp;width=600&amp;modal=true"
+	title="Contact Auctioneer" class="boxlink thickbox">
+		<img src="http://www.icollector.com/graphics/icons/question.gif" alt="Ask Question" style="width: 30px;" />
+		Ask Auctioneer a Question...
+	</a>
+	<div class="stopper"></div>
+</div>
+<div id="cphBody_ucAuctioneerSidePanel_divContainer" class="sidebox sidebox_solidbottom">
+	<a href="http://www.icollector.com/Desert-West-Auction_ae1601" style="text-decoration:none; color:#666; font-weight:bold; font-size:10pt;" title="Desert West Auction"><img id="cphBody_ucAuctioneerSidePanel_imgAuctioneerLogo" src="http://media.liveauctiongroup.net/ae/1601m.png?v=8D375F60DFA8B60" alt="Desert West Auction" style="display:block; margin:0 auto 10px; width:200px; height:60px;" />Desert West Auction</a>
+	<span style="display:block; margin:5px 0 20px; color:#999; font-weight: normal; font-size: 11px;">Mimbres, New Mexico, United States</span>
+	<span style="display:block; margin:5px 0 20px; color:#666; font-weight: bold; font-size: 14px;">575-536-9353</span>
+	<a href="http://www.icollector.com/Desert-West-Auction_ae1601" style="display:block; font-weight:bold; margin-bottom:5px; font-size:8pt; text-decoration:none;">About Auctioneer...</a>
+	<a href="auctionlist.aspx?ae=1601" style="display:block; font-weight:bold; font-size:8pt; text-decoration:none;">Auctioneer's Auctions...</a>
+
+	<!--<a id="cphBody_ucAuctioneerSidePanel_hlSubscribeAuctioneer" title="Desert West Auction" class="boxlink" href="login.aspx?returnurl=http://www.icollector.com/item.aspx?i=10772469">Subscribe to Auctioneer's News</a>-->
+	<!--<a id="cphBody_ucAuctioneerSidePanel_hlSubscribeCategorySelect">Subscribe to Category News</a>-->
+
+	<div class="stopper"></div>
+</div>
+			
+			
+			
+			
+		</div>
+	
+</div>
+	
+	
+
+<div id="popupinfo_increments" style="display:none;">
+	
+			<table class="datainfo">
+				<thead><tr><td>From (Incl.)</td><td>To (Excl.)</td><td>Increment</td></tr></thead>
+				<tbody>
+		
+			<tr>
+				<td>0.00</td>
+				<td>50.00</td>
+				<td>5.00</td>
+			</tr>
+		
+			<tr>
+				<td>50.00</td>
+				<td>100.00</td>
+				<td>10.00</td>
+			</tr>
+		
+			<tr>
+				<td>100.00</td>
+				<td>500.00</td>
+				<td>25.00</td>
+			</tr>
+		
+			<tr>
+				<td>500.00</td>
+				<td>1,000.00</td>
+				<td>50.00</td>
+			</tr>
+		
+			<tr>
+				<td>1,000.00</td>
+				<td>2,500.00</td>
+				<td>100.00</td>
+			</tr>
+		
+			<tr>
+				<td>2,500.00</td>
+				<td>5,000.00</td>
+				<td>250.00</td>
+			</tr>
+		
+			<tr>
+				<td>5,000.00</td>
+				<td>Infinite</td>
+				<td>500.00</td>
+			</tr>
+		
+				</tbody>
+			</table>
+		
+</div>
+
+<div id="popupinfo_premiums" style="display:none;">
+	
+			<table class="datainfo">
+				<thead><tr><td>From (Inc.)</td><td>To (Exc.)</td><td>Premium</td></tr></thead>
+		
+			<tr>
+				<td>0.00</td>
+				<td>Infinite</td>
+				<td>18%</td>
+			</tr>
+		
+			</table>
+		
+</div>
+	
+	
+	</div>
+
+    <div id="Dialog" style="display:none;">
+        <span class="lblInfo" id="lblInfo" style="margin-bottom:15px">Get daily email alerts when new items become available that contain the following category and keywords.</span>
+        <span class="lblTitle">Category:</span>
+        <span class="lblInfo" id="lblCategory"></span>
+        <span class="lblTitle">Enter Keywords used in Search:</span>
+        <input type="text" id="txtKeywords"/>
+        <div class="buttons">
+            <input type="button" id="btnSubmit" value="Confirm" />
+            <input type="button" id="btnCancel" value="Cancel" />
+        </div>
+    </div>
+	<div id="ItemNotificationHelpDialog" style="display:none;">
+		<span class="lblTitle">Welcome to the New Lot Closing Notification Feature</span>
+		<br />
+        <span class="lblInfo" >Subscribing to the Lot Closing Notification for an item will trigger our system to notify you about 5-10 minutes before the bidding closes.
+			<br />
+			- Live Auctions: We will send you a notification when the item is about to go up for live bidding.
+			<br />
+			- Timed Auctions: We will send you a notification when the item bidding is about to end.
+			<br /><br />
+        </span>
+        <span class="lblInfo" >You can choose to be notified via SMS Text message and/or Email via the subscription settings page in your account. <a id="linkItemSubSettings" href=''>Click Here</a> to change your subscription settings. Getting notified via SMS Text Message will require you to <a href='account/profile.aspx?m=1'>verify</a> your cell phone via the profile page in your account.</span>
+		<br />
+		<span class="lblInfo" >
+			The following factors may prevent the notifications from being sent on time or at all:
+			<br />
+			- The Auctioneer chooses to go out of order for the items in their auction
+			<br />
+			- The Auctioneer closes bidding on more than 10 items in 30 seconds</span>
+        <div class="buttons">
+            <input type="button" id="btnClose" value="Close" />
+        </div>
+    </div>
+
+					<div style="clear:both;"></div>
+				</div>
+			</div>
+
+			<div id="footer">
+				<div id="footer_content">
+					<div id="footer_content_links">
+						<ul class="columns">
+							<li>
+								<header>About iCollector.com Online Auctions</header>
+								<a href="http://www.icollector.com/about.aspx">About Us</a>
+								<a href="http://www.icollector.com/help.aspx">Help</a>
+								<a href="http://www.icollector.com/contact.aspx">Contact Us</a>
+								<a href="http://auctionnews.icollector.com/" target="_blank">Auction News</a>
+							</li>
+							<li>
+								<header>Services</header>
+								<a href="https://icollector.liveauctiongroup.com/login.aspx">Bidder Sign-In</a>
+								<a href="http://www.icollector.com/search.aspx">Search Items</a>
+								<a href="http://www.icollector.com/auctionlist.aspx">Browse Auctions</a>
+								<a href="http://www.icollector.com/auctionmap.aspx">Auction Map</a>
+								<a href="https://icollector.liveauctiongroup.com/account/auctionbutler.aspx">Auction Butler</a>
+								<a href="http://www.icollector.com/auctioneerlist.aspx">Auctioneers List</a>
+							</li>
+							<li>
+								<header>Follow Us</header>
+								<a href="http://www.facebook.com/icollector" target="_blank" title="Become a fan on Facebook">Facebook</a>
+								<a href="http://twitter.com/icollector" target="_blank" title="Follow on Twitter">Twitter</a>
+								<a href="https://plus.google.com/100320053500968719287" target="_blank" title="Follow on Google+">Google+</a>
+							</li>
+							<li class="footer_calltoactions">
+								<a href="https://icollector.liveauctiongroup.com/register.aspx">Become a Bidder</a>
+								<a href="http://www.liveauctiongroup.com/join.aspx" target="_blank">Become a Seller</a>
+								<a class="adminlink" href="http://admin.liveauctiongroup.com/" target="_blank">Auctioneer Login</a>
+							</li>
+							<li class="footer_side">
+								<div class="footer_newsletter"><a onclick="openNewsletterPopup(); return false;" title="Subscribe to our Newsletter"><img src="http://www.icollector.com/graphics/button_newsletter.png" alt="Newsletter" /></a></div>
+								<div class="footer_poweredby"><span id="poweredbyLAG" style="color:#666666;"><div style='display:inline-block;width:176px;text-align:right;'><a href='http://www.liveauctiongroup.com/' title='Live Auction Software'><img src='http://www.icollector.com/graphics/poweredby_lag.png' alt='Live Auction Software' style='border:none;' /></a><br /><a href='http://www.liveauctiongroup.com/' title='Live Auction Software' style='padding-right:10px;font-family:arial,verdana,helvetica;font-size:10px;text-align:right;text-decoration:none;color:rgb(102,102,102);'>Live Auction Software</a></div></span></div>
+							</li>
+						</ul>
+					</div>
+					<div id="footer_content_legal">
+						<span class="footer_content_policy"><a href="http://www.icollector.com/policy.aspx" target="_blank">User Agreement &amp; Privacy Policy</a></span>
+						<span class="footer_content_copyright">Copyright 1996 - 2017 &copy; iCollector.com Online Auctions</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+<script type="text/javascript">
+function sharewidget_loadscriptasync(script_src)
+{
+	var e = document.createElement('script');
+	e.type = 'text/javascript';
+	e.async = true;
+	e.src = script_src;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(e, s);
+}
+sharewidget_loadscriptasync('https://apis.google.com/js/plusone.js');
+sharewidget_loadscriptasync('//platform.twitter.com/widgets.js');
+sharewidget_loadscriptasync('//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=256361631233399');
+
+var addthis_config = {"pubid":"icollector","data_track_clickback":true,services_exclude:"twitter,print",data_track_addressbar:false,data_track_clickback:false};
+
+sharewidget_loadscriptasync('//s7.addthis.com/js/250/addthis_widget.js');
+</script><script type='text/javascript'>_qevents.push( {qacct:'p-e6TbQXO7N7Wn2'} );</script>
+<noscript><div style='display:none;'><img src='//pixel.quantserve.com/pixel/p-e6TbQXO7N7Wn2.gif' height='1' width='1' alt='Quantcast'/></div></noscript></form>
+
+    <script type="text/javascript" src="http://www.icollector.com/js/jquery.thickbox.1.js"></script>
+    <script>
+        $(function () {
+            // requires jquery and thickbox
+            var popupOpened = initAutoPopups(
+                false,
+                "http://www.icollector.com/subscribe.aspx",
+                "http://www.icollector.com/signupprompt.aspx?returnurl=http%3a%2f%2fwww.icollector.com%2fitem.aspx%3fi%3d10772469");
+        });
+    </script>
+</body>
+</html>

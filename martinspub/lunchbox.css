@@ -1,14 +1,265 @@
-<!DOCTYPE html>
-<html lang="en">
+* {
+	box-sizing: border-box;
+}
+body {
+	background-image: url("blackdenim.jpg");
+	background-color: rgba(0, 0, 0, .03);
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	/*filter: alpha(opacity=30);
+	opacity: 0.3;*/
+	color: #ffffff;
+	font-family: 'Limelight', cursive;
+	font-family: 'Merriweather Sans', sans-serif;
+	padding: 1%;
+	margin: 1%;
+	line-height: 2.0;
+}
+h1,
+h2,
+h3 {
+	font-size: 3em;
+	font-weight: bold;
+	font-family: 'Limelight', cursive;
+	color: #ffffff;
+	text-align: center;
+	text-shadow: 2px 2px #1E49AE;
+}
+header h1 {
+	font-size: 5em;
+	font-weight: bolderfont-family: 'Limelight', cursive;
+	color: #ffffff;
+	letter-spacing: 4px;
+	text-shadow: 3px 3px #1E49AE;
+}
+p {
+	color: #ffffff;
+	font-size: 1.1em;
+	font-weight: 800;
+	font-family: 'Merriweather Sans', sans-serif;
+	margin: 2px;
+	line-height: 2.0;
+}
+ul {
+	list-style-position: outside;
+}
+.container {
+	max-width: 1260px;
+	margin: 5px auto;
+	border-radius: 5px;
+	padding: 10px;
+	line-height: 2.0;
+}
+header {
+	padding: 5px;
+	margin: 10px 5px;
+	text-align: center;
+	border: 8px double #1E49AE;
+}
+nav {
+	text-align: center;
+	padding-bottom: 20px;
+}
+nav a {
+	padding: 15px 15px;
+	background-color: blue;
+	color: #ffffff;
+	font-family: 'Limelight', cursive;
+	font-weight: bold;
+	font-size: 1.7em;
+	border-radius: 15px;
+	text-decoration: none;
+	margin: 35px;
+	align-content: center;
+	letter-spacing: 0.035em;
+}
+nav a:hover {
+	background: #212121;
+	color: #ffffff;
+	text-decoration: underline;
+}
+a {
+	text-decoration: none;
+	font-weight: 600;
+	color: #212121;
+}
+a:hover {
+	text-decoration: underline;
+	color: #F05B26;
+}
+#current {
+	color: orangered;
+	text-decoration: underline;
+}
+aside {
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 1.1em;
+	color: #ffffff;
+	border: 8px double #1E49AE;
+	background-color: rgba(0, 0, 0, .6);
+}
+.left {
+	float: left;
+	font-size: 1.1em;
+	color: #ffffff;
+	border: 8px double #1E49AE;
+	background-color: rgba(0, 0, 0, .6);
+}
+footer {
+	clear: both;
+	text-align: center;
+	color: #ffffff;
+	border: 8px double #1E49AE;
+	background-color: rgba(0, 0, 0, .6);
+	padding: 2px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	font-size: 1.5em;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+img {
+	width: 95%;
+	height: auto;
+	display: block;
+	margin: 10px auto;
+	border: 8px double #1E49AE;
+}
+ul {
+	list-style: none;
+	font-size: 1.5;
+	color: #ffffff;
+}
 
-<head>
-	<meta charset="UTF-8">
-	<title>lunchbox</title>
-</head>
+/* For mobile phones: */
 
-<body>
+* {
+	box-sizing: border-box;
+}
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+[class*="col-"] {
+	float: left;
+	padding: 15px;
+}
+html {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+.header {
+	background-color: rgba(0, 0, 0, .6);
+	color: #ffffff;
+	padding: 10px;
+}
+.menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.menu li {
+	padding: 8px;
+	margin-bottom: 7px;
+	background-color: #33b5e5;
+	color: #ffffff;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+.menu li:hover {
+	background-color: #0099cc;
+}
+.aside {
+	background-color: #33b5e5;
+	padding: 15px;
+	color: #ffffff;
+	text-align: center;
+	font-size: 14px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+aside li {
+	line-height: 2.0;
+}
 
+/* For mobile phones: */
 
-</body>
-
-</html>
+[class*="col-"] {
+	width: 100%;
+}
+@media only screen and (min-width: 600px) {
+	/* For tablets: */
+	.col-m-1 {
+		width: 8.33%;
+	}
+	.col-m-2 {
+		width: 16.66%;
+	}
+	.col-m-3 {
+		width: 25%;
+	}
+	.col-m-4 {
+		width: 33.33%;
+	}
+	.col-m-5 {
+		width: 41.66%;
+	}
+	.col-m-6 {
+		width: 50%;
+	}
+	.col-m-7 {
+		width: 58.33%;
+	}
+	.col-m-8 {
+		width: 66.66%;
+	}
+	.col-m-9 {
+		width: 75%;
+	}
+	.col-m-10 {
+		width: 83.33%;
+	}
+	.col-m-11 {
+		width: 91.66%;
+	}
+	.col-m-12 {
+		width: 100%;
+	}
+}
+@media only screen and (min-width: 768px) {
+	/* For desktop: */
+	.col-1 {
+		width: 8.33%;
+	}
+	.col-2 {
+		width: 16.66%;
+	}
+	.col-3 {
+		width: 25%;
+	}
+	.col-4 {
+		width: 33.33%;
+	}
+	.col-5 {
+		width: 41.66%;
+	}
+	.col-6 {
+		width: 50%;
+	}
+	.col-7 {
+		width: 58.33%;
+	}
+	.col-8 {
+		width: 66.66%;
+	}
+	.col-9 {
+		width: 75%;
+	}
+	.col-10 {
+		width: 83.33%;
+	}
+	.col-11 {
+		width: 91.66%;
+	}
+	.col-12 {
+		width: 100%;
+	}
+}
